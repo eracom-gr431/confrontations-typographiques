@@ -1,0 +1,303 @@
+@font-face {
+    font-family: 'aileron-regular';
+    src: url('font/aileron/aileron_regular.eot');
+    src: url('font/aileron/aileron_regular.eot?#iefix') format('embedded-opentype'),
+         url('font/aileron/aileron_regular.woff') format('woff'),
+         url('font/aileron/aileron_regular.ttf') format('truetype'),
+         url('font/aileron/aileron_regular.svg#aileron-regular') format('svg');
+}
+
+
+@font-face {
+    font-family: 'aileronbold-webfont';
+    src: url('font/aileron/aileron-bold-webfont.eot');
+    src: url('font/aileron/aileron-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/aileron/aileron-bold-webfont.woff2') format('woff2'),
+         url('font/aileron/aileron-bold-webfont.woff') format('woff'),
+         url('font/aileron/aileron-bold-webfont.ttf') format('truetype'),
+         url('font/aileron/aileron-bold-webfont.svg#aileronbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'autobahn';
+    src: url('font/autobahn/autobahn.eot');
+    src: url('font/autobahn/autobahn.eot?#iefix') format('embedded-opentype'),
+         url('font/autobahn/autobahn.woff') format('woff'),
+         url('font/autobahn/autobahn.ttf') format('truetype'),
+         url('font/autobahn/autobahn.svg#autobahn') format('svg');
+}
+
+@font-face {
+    font-family: 'kaushan-script';
+    src: url('font/kaushan/kaushan-script_regular.eot');
+    src: url('font/kaushan/kaushan-script_regular.eot?#iefix') format('embedded-opentype'),
+         url('font/kaushan/kaushan-script_regular.woff') format('woff'),
+         url('font/kaushan/kaushan-script_regular.ttf') format('truetype'),
+         url('font/kaushan/kaushan-script_regular.svg#kaushan-script') format('svg');
+}
+
+@font-face {
+    font-family: 'maximage_jululuregular-webfont';
+    src: url('font/mxjululu/maximage_jululu-webfont.eot');
+    src: url('font/mxjululu/maximage_jululu-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/mxjululu/maximage_jululu-webfont.woff2') format('woff2'),
+         url('font/mxjululu/maximage_jululu-webfont.woff') format('woff'),
+         url('font/mxjululu/maximage_jululu-webfont.ttf') format('truetype'),
+         url('font/mxjululu/maximage_jululu-webfont.svg#maximage_jululuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'maximage_jululu_outline-webfont';
+    src: url('font/mxjululu/maximage_jululu_outline-webfont.eot');
+    src: url('font/mxjululu/maximage_jululu_outline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/mxjululu/maximage_jululu_outline-webfont.woff2') format('woff2'),
+         url('font/mxjululu/maximage_jululu_outline-webfont.woff') format('woff'),
+         url('font/mxjululu/maximage_jululu_outline-webfont.ttf') format('truetype'),
+         url('font/mxjululu/maximage_jululu_outline-webfont.svg#maximage_jululu_outlineRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'youngserifregular-webfont';
+    src: url('font/young-serif/youngserif-regular-webfont.eot');
+    src: url('font/young-serif/youngserif-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/young-serif/youngserif-regular-webfont.woff2') format('woff2'),
+         url('font/young-serif/youngserif-regular-webfont.woff') format('woff'),
+         url('font/young-serif/youngserif-regular-webfont.ttf') format('truetype'),
+         url('font/young-serif/youngserif-regular-webfont.svg#youngserifregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bagnardregular-webfont';
+    src: url('font/bagnard/bagnard-webfont.eot');
+    src: url('font/bagnard/bagnard-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/bagnard/bagnard-webfont.woff2') format('woff2'),
+         url('font/bagnard/bagnard-webfont.woff') format('woff'),
+         url('font/bagnard/bagnard-webfont.ttf') format('truetype'),
+         url('font/bagnard/bagnard-webfont.svg#bagnardregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sporting_grotesquenormal-webfont';
+    src: url('font/sporting_grotesk/sporting_grotesque_normal-webfont.eot');
+    src: url('font/sporting_grotesk/sporting_grotesque_normal-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/sporting_grotesk/sporting_grotesque_normal-webfont.woff2') format('woff2'),
+         url('font/sporting_grotesk/sporting_grotesque_normal-webfont.woff') format('woff'),
+         url('font/sporting_grotesk/sporting_grotesque_normal-webfont.ttf') format('truetype'),
+         url('font/sporting_grotesk/sporting_grotesque_normal-webfont.svg#sporting_grotesquenormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'vtf_misterpixelregular';
+    src: url('font/misterpixels/mister_pixel_regular-webfont.eot');
+    src: url('font/misterpixels/mister_pixel_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/misterpixels/mister_pixel_regular-webfont.woff2') format('woff2'),
+         url('font/misterpixels/mister_pixel_regular-webfont.woff') format('woff'),
+         url('font/misterpixels/mister_pixel_regular-webfont.ttf') format('truetype'),
+         url('font/misterpixels/mister_pixel_regular-webfont.svg#vtf_misterpixelregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'vtf_misterpixeltools-webfont';
+    src: url('font/misterpixels/mister_pixel_tools-webfont.eot');
+    src: url('font/misterpixels/mister_pixel_tools-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/misterpixels/mister_pixel_tools-webfont.woff2') format('woff2'),
+         url('font/misterpixels/mister_pixel_tools-webfont.woff') format('woff'),
+         url('font/misterpixels/mister_pixel_tools-webfont.ttf') format('truetype'),
+         url('font/misterpixels/mister_pixel_tools-webfont.svg#vtf_misterpixeltools') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'lackregular-webfont';
+    src: url('font/lack/lack-webfont.eot');
+    src: url('font/lack/lack-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/lack/lack-webfont.woff2') format('woff2'),
+         url('font/lack/lack-webfont.woff') format('woff'),
+         url('font/lack/lack-webfont.ttf') format('truetype'),
+         url('font/lack/lack-webfont.svg#lackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bluu_nextbold-webfont';
+    src: url('font/bluu/bluunext-bold-webfont.eot');
+    src: url('font/bluu/bluunext-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/bluu/bluunext-bold-webfont.woff2') format('woff2'),
+         url('font/bluu/bluunext-bold-webfont.woff') format('woff'),
+         url('font/bluu/bluunext-bold-webfont.ttf') format('truetype'),
+         url('font/bluu/bluunext-bold-webfont.svg#bluu_nextbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+	background-color:#6a6b6a;
+	padding-top:5%;
+	padding-bottom:7%;
+	padding-left:4%;
+	padding-right:4%;
+	font-family:helvetica, arial, sans-serif;
+	font-weight:bold;
+	font-size:11px;
+}
+
+ol {
+	list-style:none;
+}
+
+h3 {
+	font-family:helvetica, arial, sans-serif;
+	font-weight:bold;
+	font-size:11px;
+	line-height:2px;
+
+}
+
+a:link, a:visited 
+{ 
+ text-decoration:none;
+ color:black;
+ margin-left:-25%;
+ 
+
+
+} 
+
+
+.whitespace {
+	padding-top:0.5%;
+	padding-left:0.2%;
+	padding-right:0.2%;
+	padding-bottom:0.65%;
+	max-width: 1100px;
+	margin: auto;
+}
+.nav_left {
+	float: left;
+	height: 600px;
+	position: relative;
+	padding-left: 4%;
+}
+.nav_right {
+	float: left;
+	height: 600px;
+	position: relative;
+
+}
+
+.nav_bottom {
+	float:left;
+	position: absolute;
+	bottom: -10px;
+}
+
+.ol_bottom {
+	margin-left:-10%;
+}
+
+.col_left {
+	width: 500px;
+	height: 600px;
+	background-color: white;
+	float: left;
+	padding-left:1.5%;
+	padding-right:1.5%;
+}
+.col_right {
+	width: 500px;
+	height: 600px;
+	background-color: white;
+	float: left;
+	border-left: 1px solid black;
+	padding-left:1.5%;
+	padding-right:1.5%;
+}
+.content_right {
+	width:350px;
+	height: 575px;
+	float: right;
+	position:relative;
+	overflow: hidden; 
+	margin-top: 2.3%;
+}
+
+#content_right_child{
+    overflow:auto;
+    width: 100%;
+}
+
+.content_left {
+	width:350px;
+	height: 575px;
+	float: right;
+	position:relative;
+	overflow: hidden; 
+	margin-top: 2.3%;
+	
+}
+
+
+#accordion ol {
+	display: none;
+}
+#accordion li.active ul {
+	display: block;
+}
+
+
+.slider {
+    margin: 30px auto;
+    padding-top: 5px;
+    padding-left: 15px;
+    width: 360px;
+    height: 5%;
+/*    background: #e6e3e3;*/
+/*    background: red;*/
+    border-radius: 4px;
+    }
+
+
+.mySlider, .mySecondSlider {
+    width: 100px;
+
+}
+
+.color-button {
+    width: 12px;
+    height: 12px;
+
+}
+
+.color-button_2 {
+    width: 12px;
+    height: 12px;
+}
+
+
+
