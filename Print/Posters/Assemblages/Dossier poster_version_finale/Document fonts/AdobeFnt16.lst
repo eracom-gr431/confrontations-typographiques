@@ -1,0 +1,124 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-Black
+FamilyName:Aileron
+StyleName:Black
+MenuName:Aileron Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Aileron Black
+WritingScript:Roman
+OutlineFileName:\Aileron-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29904
+FileModTime:1408560986
+NameArray:0,Mac,4,Aileron Black
+NameArray:0,Win,1,Aileron Black
+NameArray:0,Win,16,Aileron
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-BlackItalic
+FamilyName:Aileron
+StyleName:Black Italic
+MenuName:Aileron Black
+StyleBits:1
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Aileron Black Italic
+WritingScript:Roman
+OutlineFileName:\Aileron-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30812
+FileModTime:1408561040
+NameArray:0,Mac,4,Aileron Black Italic
+NameArray:0,Win,1,Aileron Black
+NameArray:0,Win,16,Aileron
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-Thin
+FamilyName:Aileron
+StyleName:Thin
+MenuName:Aileron Thin
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Aileron Thin
+WritingScript:Roman
+OutlineFileName:\Aileron-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28620
+FileModTime:1408560984
+NameArray:0,Mac,4,Aileron Thin
+NameArray:0,Win,1,Aileron Thin
+NameArray:0,Win,16,Aileron
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-Md
+FamilyName:Helvetica Neue LT Pro
+StyleName:65 Medium
+MenuName:HelveticaNeueLT Pro 65 Md
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Pro 65 Medium
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTPro-Md.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:49740
+FileModTime:1387213022
+NameArray:0,Mac,18,HelveticaNeueLT Pro 65 Md
+NameArray:0,Mac,4,Helvetica Neue LT Pro 65 Medium
+NameArray:0,Win,1,HelveticaNeueLT Pro 65 Md
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:KaushanScript-Regular
+FamilyName:Kaushan Script
+StyleName:Regular
+MenuName:Kaushan Script
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Kaushan Script
+WritingScript:Roman
+OutlineFileName:\kaushan-script_regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:342208
+FileModTime:1421620728
+NameArray:0,Mac,18,Kaushan Script
+NameArray:0,Mac,4,Kaushan Script
+NameArray:0,Win,1,Kaushan Script
+%EndFont
+
